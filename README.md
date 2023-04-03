@@ -5,6 +5,8 @@ A collection of steganography digital forensics capture the flag challenges by [
 
 Each zip file contains the challenge, README, LICENSE, HINT and ANSWER.
 
+[Download All](https://github.com/phempshall/ctf-dfir-steganography/releases/download/release/CTFs.zip) in one zip file.
+
 ## Blockchain
 
 **To The Moon**
