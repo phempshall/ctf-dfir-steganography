@@ -1,7 +1,5 @@
 # ctf-dfir-steganography
-A collection of steganography digital forensics capture the flag challenges by [Paul Hempshall](https://www.paulhempshall.com/).
-
-[https://www.paulhempshall.com/blog/free-dfir-steganography-ctf-challenges/](https://www.paulhempshall.com/blog/free-dfir-steganography-ctf-challenges/)
+A collection of steganography digital forensics capture the flag challenges by [Paul Hempshall](https://www.paulhempshall.com/blog/free-dfir-steganography-ctf-challenges/).
 
 Each zip file contains the challenge, README, LICENSE, HINT and ANSWER.
 
@@ -76,7 +74,7 @@ Free stuff is good, but you could be storing something sinister without your
 consent.
 ```
 
-*Elliot’s secret stash is not available on GitHub - download directly from [https://www.paulhempshall.com/blog/free-dfir-steganography-ctf-challenges/#section-audio](https://www.paulhempshall.com/blog/free-dfir-steganography-ctf-challenges/#section-audio)*
+*Elliot’s secret stash is not available individually on GitHub - download directly from [https://www.paulhempshall.com/blog/free-dfir-steganography-ctf-challenges/#section-audio](https://www.paulhempshall.com/blog/free-dfir-steganography-ctf-challenges/#section-audio) or download all from the releases section*
 
 
 # LICENSE
