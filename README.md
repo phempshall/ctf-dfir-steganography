@@ -3,7 +3,7 @@ A collection of steganography digital forensics capture the flag challenges by [
 
 [https://www.paulhempshall.com/blog/free-dfir-steganography-ctf-challenges/](https://www.paulhempshall.com/blog/free-dfir-steganography-ctf-challenges/)
 
-Each zip file contains a README, LICENSE, HINT and ANSWER along with the individual challenge.
+Each zip file contains a README, LICENSE, HINT and ANSWER with each individual challenge.
 
 ## Blockchain
 
