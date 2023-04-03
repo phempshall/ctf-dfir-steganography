@@ -12,7 +12,7 @@ Each zip file contains a README, LICENSE, HINT and ANSWER.
 
 **Bad Blockchain**
 
-`This new botnet is using blockchain to store backup command-and-control server IP addresses. We’ve extracted the Bitcoin address but it’s not using the traditional OP_RETURN to hide the data. Can you find the IP address?`
+``This new botnet is using blockchain to store backup command-and-control server IP addresses. We’ve extracted the Bitcoin address but it’s not using the traditional OP_RETURN to hide the data. Can you find the IP address?``
 
 
 ## Image
@@ -28,6 +28,7 @@ Each zip file contains a README, LICENSE, HINT and ANSWER.
 ## Text
 
 **Sequence**
+
 `The director of this company believes 2 of his employees are sending secret messages using some sort of mathematical code, but the messages seem to be on-topic.`
 
 
