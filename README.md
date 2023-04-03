@@ -74,7 +74,7 @@ Free stuff is good, but you could be storing something sinister without your
 consent.
 ```
 
-*not available on GitHub - download directly from [https://www.paulhempshall.com/blog/free-dfir-steganography-ctf-challenges/#section-audio](https://www.paulhempshall.com/blog/free-dfir-steganography-ctf-challenges/#section-audio)*
+*Elliot’s secret stash is not available on GitHub - download directly from [https://www.paulhempshall.com/blog/free-dfir-steganography-ctf-challenges/#section-audio](https://www.paulhempshall.com/blog/free-dfir-steganography-ctf-challenges/#section-audio)*
 
 
 # LICENSE
