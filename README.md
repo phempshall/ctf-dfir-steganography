@@ -80,6 +80,6 @@ consent.
 # LICENSE
 
 ```
-Free for personal and non-profit use. 
+Free for personal and non-profit use with attribution. 
 Please respect the license contained within each challenge.
 ```
