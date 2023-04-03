@@ -1,5 +1,5 @@
 # ctf-dfir-steganography
-A collection of my steganography digital forensics capture the flag challenges by [Paul Hempshall](https://www.paulhempshall.com/).
+A collection of steganography digital forensics capture the flag challenges by [Paul Hempshall](https://www.paulhempshall.com/).
 
 [https://www.paulhempshall.com/blog/free-dfir-steganography-ctf-challenges/](https://www.paulhempshall.com/blog/free-dfir-steganography-ctf-challenges/)
 
